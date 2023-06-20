@@ -1,4 +1,4 @@
-# Contoso Traders
+# Contoso Traders ##Training
 
 ![Logo](./docs/images/logo-1280x640.png)
 
